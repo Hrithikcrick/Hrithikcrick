@@ -1,24 +1,25 @@
-```md
-<!-- Hrithik Sharma | Clean Golden GitHub Profile README -->
+<!-- Hrithik Sharma | GitHub Profile README -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:FFF8DC,25:FDE68A,50:FACC15,75:F59E0B,100:B45309&text=Hrithik%20Sharma&fontColor=3B2500&fontSize=62&fontAlignY=38&desc=AI%2FML%20%7C%20Cloud%20Computing%20%7C%20NLP%20%7C%20Graph%20ML&descAlignY=58&descSize=21" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=B45309&center=true&vCenter=true&width=980&lines=M.Tech+AI%2FML+Student+at+IIT+Delhi;Cloud+Computing+%7C+Azure+%7C+Docker+%7C+FastAPI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Recommendation+Systems+%7C+Graph+ML+%7C+DSA;Building+clean%2C+useful%2C+and+reproducible+AI+projects)](https://git.io/typing-svg)
+<br/>
 
-<p align="center">
-  <a href="mailto:sharmahrithik2806@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sharmahrithik2806%40gmail.com-B45309?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hrithikcrick">
-    <img src="https://img.shields.io/badge/GitHub-Hrithikcrick-3B2500?style=for-the-badge&logo=github&logoColor=FDE68A" />
-  </a>
-  <a href="https://www.linkedin.com/in/hrithik-sharma-418404201">
-    <img src="https://img.shields.io/badge/LinkedIn-Hrithik%20Sharma-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=FACC15" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=23\&duration=2500\&pause=700\&color=B45309\&center=true\&vCenter=true\&width=980\&lines=M.Tech+AI%2FML+Student+at+IIT+Delhi;Cloud+Computing+%7C+Azure+%7C+Docker+%7C+FastAPI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Recommendation+Systems+%7C+Graph+ML+%7C+DSA;Building+clean%2C+useful%2C+and+reproducible+AI+projects)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="mailto:sharmahrithik2806@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sharmahrithik2806%40gmail.com-B45309?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Hrithikcrick">
+  <img src="https://img.shields.io/badge/GitHub-Hrithikcrick-3B2500?style=for-the-badge&logo=github&logoColor=FDE68A" />
+</a>
+<a href="https://www.linkedin.com/in/hrithik-sharma-418404201">
+  <img src="https://img.shields.io/badge/LinkedIn-Hrithik%20Sharma-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=FACC15" />
 
 </div>
 
@@ -32,12 +33,12 @@ Hi, I am **Hrithik Sharma**, an **M.Tech student at IIT Delhi** specializing in 
 
 I build practical and research-oriented projects in:
 
-- 🤖 Machine Learning and Deep Learning  
-- 🧠 NLP, Transformers, and Hugging Face  
-- ☁️ Cloud Computing, Azure, Docker, and FastAPI  
-- 🎯 Recommendation Systems  
-- 🕸️ Graph Machine Learning  
-- 🧩 Data Structures and Algorithms  
+* 🤖 Machine Learning and Deep Learning
+* 🧠 NLP, Transformers, and Hugging Face
+* ☁️ Cloud Computing, Azure, Docker, and FastAPI
+* 🎯 Recommendation Systems
+* 🕸️ Graph Machine Learning
+* 🧩 Data Structures and Algorithms
 
 I like creating projects that are **clean, reproducible, useful, and resume-ready**.
 
@@ -84,10 +85,9 @@ I like creating projects that are **clean, reproducible, useful, and resume-read
 
 AI-powered study assistant with upload, quiz, flashcards, roadmap, summary, doubt solving, and local AI support.
 
-**Tech:** Python, Streamlit, Ollama, PDF tools  
+**Tech:** Python, Streamlit, Ollama, PDF tools
 
-**Repository:**  
-<a href="https://github.com/Hrithikcrick/acadmate-study-hub">github.com/Hrithikcrick/acadmate-study-hub</a>
+**Repository:** <a href="https://github.com/Hrithikcrick/acadmate-study-hub">github.com/Hrithikcrick/acadmate-study-hub</a>
 
 </td>
 <td width="50%" valign="top">
@@ -96,10 +96,9 @@ AI-powered study assistant with upload, quiz, flashcards, roadmap, summary, doub
 
 Safety-first AI framework for traffic violation evidence generation with manual review fallback.
 
-**Tech:** Python, Computer Vision, OCR, YOLO  
+**Tech:** Python, Computer Vision, OCR, YOLO
 
-**Repository:**  
-<a href="https://github.com/Hrithikcrick/ViolationIQ">github.com/Hrithikcrick/ViolationIQ</a>
+**Repository:** <a href="https://github.com/Hrithikcrick/ViolationIQ">github.com/Hrithikcrick/ViolationIQ</a>
 
 </td>
 </tr>
@@ -111,10 +110,9 @@ Safety-first AI framework for traffic violation evidence generation with manual 
 
 Low-resource Neural Machine Translation pipeline for Pashto-English and Pashto-Hindi translation.
 
-**Tech:** PyTorch, Hugging Face, Transformers, NLP  
+**Tech:** PyTorch, Hugging Face, Transformers, NLP
 
-**Repository:**  
-<a href="https://github.com/Hrithikcrick/pashto-nmt-carnot-internship">github.com/Hrithikcrick/pashto-nmt-carnot-internship</a>
+**Repository:** <a href="https://github.com/Hrithikcrick/pashto-nmt-carnot-internship">github.com/Hrithikcrick/pashto-nmt-carnot-internship</a>
 
 </td>
 <td width="50%" valign="top">
@@ -123,10 +121,9 @@ Low-resource Neural Machine Translation pipeline for Pashto-English and Pashto-H
 
 Topic-wise DSA repository with explanations, dry runs, complexity analysis, and optimized solutions.
 
-**Tech:** Python, Algorithms, Data Structures  
+**Tech:** Python, Algorithms, Data Structures
 
-**Repository:**  
-<a href="https://github.com/Hrithikcrick/DSA-Practice">github.com/Hrithikcrick/DSA-Practice</a>
+**Repository:** <a href="https://github.com/Hrithikcrick/DSA-Practice">github.com/Hrithikcrick/DSA-Practice</a>
 
 </td>
 </tr>
@@ -274,4 +271,3 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:B45309,25:D97706,50:F59E0B,75:FACC15,100:FFF8DC&section=footer" />
 
 </div>
-```
