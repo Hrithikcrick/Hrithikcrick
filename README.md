@@ -1,4 +1,4 @@
-<!-- Hrithik Sharma | GitHub Profile README -->
+<!-- Hrithik Sharma | Professional GitHub Profile README -->
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=23\&duration=2500\&pause=700\&color=B45309\&center=true\&vCenter=true\&width=980\&lines=M.Tech+AI%2FML+Student+at+IIT+Delhi;Cloud+Computing+%7C+Azure+%7C+Docker+%7C+FastAPI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Recommendation+Systems+%7C+Graph+ML+%7C+DSA;Building+clean%2C+useful%2C+and+reproducible+AI+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=B45309&center=true&vCenter=true&width=980&lines=M.Tech+AI%2FML+Student+at+IIT+Delhi;Cloud+Computing+%7C+Azure+%7C+Docker+%7C+FastAPI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Recommendation+Systems+%7C+Graph+ML+%7C+DSA;Building+practical%2C+clean%2C+and+reproducible+AI+solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,36 +17,36 @@
   <img src="https://img.shields.io/badge/GitHub-Hrithikcrick-3B2500?style=for-the-badge&logo=github&logoColor=FDE68A" />
 </a>
 <a href="https://www.linkedin.com/in/hrithik-sharma-418404201">
-  <img src="https://img.shields.io/badge/LinkedIn-Hrithik%20Sharma-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Hrithik%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=FACC15" />
+<img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=F59E0B" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikcrick&layout=compact&langs_count=8&hide_border=true&bg_color=FFF8DC&title_color=B45309&text_color=3B2500&icon_color=F59E0B" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikcrick&layout=compact&langs_count=8&hide_border=true&bg_color=F0F9FF&title_color=1D4ED8&text_color=334155&icon_color=0EA5E9" />
 
 Hi, I am **Hrithik Sharma**, an **M.Tech student at IIT Delhi** specializing in **Artificial Intelligence and Machine Learning**.
 
-I build practical and research-oriented projects in:
+My work focuses on building practical, research-oriented, and reproducible solutions across:
 
-* 🤖 Machine Learning and Deep Learning
-* 🧠 NLP, Transformers, and Hugging Face
-* ☁️ Cloud Computing, Azure, Docker, and FastAPI
-* 🎯 Recommendation Systems
-* 🕸️ Graph Machine Learning
-* 🧩 Data Structures and Algorithms
+- **Machine Learning and Deep Learning**
+- **Natural Language Processing and Transformers**
+- **Cloud Computing with Azure, Docker, and FastAPI**
+- **Recommendation Systems**
+- **Graph Machine Learning**
+- **Data Structures and Algorithms**
 
-I like creating projects that are **clean, reproducible, useful, and resume-ready**.
+I enjoy developing systems that combine strong engineering fundamentals with real-world usability.
 
 <br clear="right"/>
 
 ---
 
-## 🌟 Tech Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -56,26 +56,26 @@ I like creating projects that are **clean, reproducible, useful, and resume-read
 
 ---
 
-## 🚀 Skill Areas
+## 🚀 Core Competencies
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-FACC15?style=for-the-badge&logoColor=3B2500" />
 <img src="https://img.shields.io/badge/Deep%20Learning-F59E0B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-FDE68A?style=for-the-badge&logoColor=3B2500" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-B45309?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-FACC15?style=for-the-badge&logo=microsoftazure&logoColor=3B2500" />
-<img src="https://img.shields.io/badge/Docker-F59E0B?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-FDE68A?style=for-the-badge&logo=fastapi&logoColor=3B2500" />
-<img src="https://img.shields.io/badge/Graph%20ML-B45309?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Recommendation%20Systems-FACC15?style=for-the-badge&logoColor=3B2500" />
-<img src="https://img.shields.io/badge/DSA-F59E0B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-0A66C2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Graph%20ML-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Recommendation%20Systems-DB2777?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-B45309?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
 
-## 💎 Featured Projects
+## 📌 Featured Projects
 
 <table>
 <tr>
@@ -83,22 +83,20 @@ I like creating projects that are **clean, reproducible, useful, and resume-read
 
 ### 🧠 AcadMate Study Hub
 
-AI-powered study assistant with upload, quiz, flashcards, roadmap, summary, doubt solving, and local AI support.
+AI-powered study assistant supporting document upload, quiz generation, flashcards, roadmaps, summaries, doubt solving, and local AI workflows.
 
-**Tech:** Python, Streamlit, Ollama, PDF tools
-
-**Repository:** <a href="https://github.com/Hrithikcrick/acadmate-study-hub">github.com/Hrithikcrick/acadmate-study-hub</a>
+**Technology:** Python, Streamlit, Ollama, PDF tooling  
+**Repository:** <a href="https://github.com/Hrithikcrick/acadmate-study-hub">acadmate-study-hub</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚦 ViolationIQ
 
-Safety-first AI framework for traffic violation evidence generation with manual review fallback.
+Safety-first computer vision framework for traffic violation evidence generation with structured outputs and manual review fallback.
 
-**Tech:** Python, Computer Vision, OCR, YOLO
-
-**Repository:** <a href="https://github.com/Hrithikcrick/ViolationIQ">github.com/Hrithikcrick/ViolationIQ</a>
+**Technology:** Python, Computer Vision, OCR, YOLO  
+**Repository:** <a href="https://github.com/Hrithikcrick/ViolationIQ">ViolationIQ</a>
 
 </td>
 </tr>
@@ -108,22 +106,20 @@ Safety-first AI framework for traffic violation evidence generation with manual 
 
 ### 🌐 Pashto NMT Carnot Internship
 
-Low-resource Neural Machine Translation pipeline for Pashto-English and Pashto-Hindi translation.
+Low-resource neural machine translation pipeline for Pashto-to-English and Pashto-to-Hindi translation.
 
-**Tech:** PyTorch, Hugging Face, Transformers, NLP
-
-**Repository:** <a href="https://github.com/Hrithikcrick/pashto-nmt-carnot-internship">github.com/Hrithikcrick/pashto-nmt-carnot-internship</a>
+**Technology:** PyTorch, Hugging Face, Transformers, NLP  
+**Repository:** <a href="https://github.com/Hrithikcrick/pashto-nmt-carnot-internship">pashto-nmt-carnot-internship</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 DSA Practice
 
-Topic-wise DSA repository with explanations, dry runs, complexity analysis, and optimized solutions.
+Structured problem-solving repository with topic-wise solutions, explanations, dry runs, and complexity-focused implementations.
 
-**Tech:** Python, Algorithms, Data Structures
-
-**Repository:** <a href="https://github.com/Hrithikcrick/DSA-Practice">github.com/Hrithikcrick/DSA-Practice</a>
+**Technology:** Python, Algorithms, Data Structures  
+**Repository:** <a href="https://github.com/Hrithikcrick/DSA-Practice">DSA-Practice</a>
 
 </td>
 </tr>
@@ -131,19 +127,19 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hrithikcrick&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF8DC&title_color=B45309&text_color=3B2500&icon_color=F59E0B&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hrithikcrick&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF8DC&title_color=B45309&text_color=3B2500&icon_color=2563EB&rank_icon=github" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Hrithikcrick&hide_border=true&background=FFF8DC&ring=B45309&fire=F59E0B&currStreakLabel=B45309&sideLabels=3B2500&currStreakNum=3B2500&sideNums=3B2500&dates=78350F" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Hrithikcrick&hide_border=true&background=FFFBEB&ring=F59E0B&fire=EF4444&currStreakLabel=0F766E&sideLabels=374151&currStreakNum=111827&sideNums=111827&dates=6B7280" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikcrick&layout=compact&langs_count=10&hide_border=true&bg_color=FFF8DC&title_color=B45309&text_color=3B2500&icon_color=D97706" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikcrick&layout=compact&langs_count=10&hide_border=true&bg_color=F0F9FF&title_color=1D4ED8&text_color=334155&icon_color=0EA5E9" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hrithikcrick&theme=solarized" />
 
@@ -151,17 +147,15 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithikcrick&bg_color=FFF8DC&color=3B2500&line=B45309&point=F59E0B&area=true&area_color=FDE68A&hide_border=true&custom_title=Hrithik%20Sharma%20Contribution%20Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithikcrick&bg_color=FAF7E8&color=374151&line=2563EB&point=F59E0B&area=true&area_color=DBEAFE&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
 
-## 🔍 Deeper Insights
+## 🔍 Repository and Development Insights
 
 <div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithikcrick&theme=solarized" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hrithikcrick&theme=solarized" />
 
@@ -169,44 +163,52 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 
 </div>
 
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hrithikcrick&theme=solarized&utcOffset=5.5" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hrithikcrick&theme=github_dark" />
+
+</div>
+
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus Areas
 
 <table>
 <tr>
-<td><b>AI / Machine Learning</b></td>
+<td><b>Artificial Intelligence / Machine Learning</b></td>
 <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
 <td><b>90%</b></td>
 </tr>
 <tr>
 <td><b>Cloud Computing</b></td>
-<td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
+<td>🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜</td>
 <td><b>80%</b></td>
 </tr>
 <tr>
 <td><b>Deep Learning</b></td>
-<td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
+<td>🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜</td>
 <td><b>80%</b></td>
 </tr>
 <tr>
-<td><b>NLP / Transformers</b></td>
-<td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
+<td><b>NLP and Transformers</b></td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜</td>
 <td><b>80%</b></td>
 </tr>
 <tr>
 <td><b>Recommendation Systems</b></td>
-<td>🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜</td>
+<td>🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜</td>
 <td><b>70%</b></td>
 </tr>
 <tr>
-<td><b>Graph ML</b></td>
-<td>🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜</td>
+<td><b>Graph Machine Learning</b></td>
+<td>🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜</td>
 <td><b>70%</b></td>
 </tr>
 <tr>
-<td><b>DSA & Problem Solving</b></td>
-<td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
+<td><b>DSA and Problem Solving</b></td>
+<td>🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜</td>
 <td><b>90%</b></td>
 </tr>
 </table>
@@ -224,22 +226,22 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 <tr>
 <td>NLP with Classification and Vector Spaces</td>
 <td>DeepLearning.AI</td>
-<td><a href="#">Credential</a></td>
+<td><a href="https://www.coursera.org/account/accomplishments/verify/DJZ7TVJWLKPP">View Credential</a></td>
 </tr>
 <tr>
 <td>Develop Generative AI Applications: Get Started</td>
 <td>IBM</td>
-<td><a href="#">Credential</a></td>
+<td><a href="https://www.coursera.org/account/accomplishments/verify/8Y3TE04XT0F7">View Credential</a></td>
 </tr>
 <tr>
 <td>Computer Vision</td>
 <td>Kaggle Learn</td>
-<td><a href="#">Credential</a></td>
+<td><a href="https://www.kaggle.com/learn/certification/hsiiestiitd27/computer-vision">View Credential</a></td>
 </tr>
 <tr>
 <td>160 Days of DSA</td>
 <td>GeeksforGeeks</td>
-<td><a href="#">Credential</a></td>
+<td><a href="https://media.geeksforgeeks.org/courses/certificates/fa6b08088f008be7a2e3016b1ab5578b.pdf">View Credential</a></td>
 </tr>
 </table>
 
@@ -266,8 +268,8 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 
 <div align="center">
 
-### ✨ Learn deeply. Build practically. Improve daily.
+### Professional focus: building reliable, practical, and high-impact AI systems.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:B45309,25:D97706,50:F59E0B,75:FACC15,100:FFF8DC&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0A66C2,25:0EA5E9,50:FACC15,75:F59E0B,100:B45309&section=footer" />
 
 </div>
