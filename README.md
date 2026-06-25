@@ -1,3 +1,4 @@
+```md
 <!-- Hrithik Sharma | Clean Golden GitHub Profile README -->
 
 <div align="center">
@@ -13,8 +14,8 @@
   <a href="https://github.com/Hrithikcrick">
     <img src="https://img.shields.io/badge/GitHub-Hrithikcrick-3B2500?style=for-the-badge&logo=github&logoColor=FDE68A" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20LinkedIn-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hrithik-sharma-418404201">
+    <img src="https://img.shields.io/badge/LinkedIn-Hrithik%20Sharma-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=FACC15" />
 </p>
@@ -80,9 +81,10 @@ I like creating projects that are **clean, reproducible, useful, and resume-read
 <td width="50%" valign="top">
 
 ### 🧠 AcadMate Study Hub
+
 AI-powered study assistant with upload, quiz, flashcards, roadmap, summary, doubt solving, and local AI support.
 
-**Tech:** Python, Streamlit, Ollama, PDF tools
+**Tech:** Python, Streamlit, Ollama, PDF tools  
 
 **Repository:**  
 <a href="https://github.com/Hrithikcrick/acadmate-study-hub">github.com/Hrithikcrick/acadmate-study-hub</a>
@@ -91,9 +93,10 @@ AI-powered study assistant with upload, quiz, flashcards, roadmap, summary, doub
 <td width="50%" valign="top">
 
 ### 🚦 ViolationIQ
+
 Safety-first AI framework for traffic violation evidence generation with manual review fallback.
 
-**Tech:** Python, Computer Vision, OCR, YOLO
+**Tech:** Python, Computer Vision, OCR, YOLO  
 
 **Repository:**  
 <a href="https://github.com/Hrithikcrick/ViolationIQ">github.com/Hrithikcrick/ViolationIQ</a>
@@ -105,9 +108,10 @@ Safety-first AI framework for traffic violation evidence generation with manual 
 <td width="50%" valign="top">
 
 ### 🌐 Pashto NMT Carnot Internship
+
 Low-resource Neural Machine Translation pipeline for Pashto-English and Pashto-Hindi translation.
 
-**Tech:** PyTorch, Hugging Face, Transformers, NLP
+**Tech:** PyTorch, Hugging Face, Transformers, NLP  
 
 **Repository:**  
 <a href="https://github.com/Hrithikcrick/pashto-nmt-carnot-internship">github.com/Hrithikcrick/pashto-nmt-carnot-internship</a>
@@ -116,9 +120,10 @@ Low-resource Neural Machine Translation pipeline for Pashto-English and Pashto-H
 <td width="50%" valign="top">
 
 ### 🧩 DSA Practice
+
 Topic-wise DSA repository with explanations, dry runs, complexity analysis, and optimized solutions.
 
-**Tech:** Python, Algorithms, Data Structures
+**Tech:** Python, Algorithms, Data Structures  
 
 **Repository:**  
 <a href="https://github.com/Hrithikcrick/DSA-Practice">github.com/Hrithikcrick/DSA-Practice</a>
@@ -162,6 +167,7 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithikcrick&theme=solarized" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hrithikcrick&theme=solarized" />
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hrithikcrick&theme=solarized" />
 
 </div>
@@ -212,8 +218,6 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 
 ## 🎓 Certifications
 
-> Replace the `#` links below with your exact credential URLs if you want them clickable.
-
 <table>
 <tr>
 <th>Certification</th>
@@ -223,22 +227,22 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 <tr>
 <td>NLP with Classification and Vector Spaces</td>
 <td>DeepLearning.AI</td>
-<td><a href="#">Add Credential Link</a></td>
+<td><a href="#">Credential</a></td>
 </tr>
 <tr>
 <td>Develop Generative AI Applications: Get Started</td>
 <td>IBM</td>
-<td><a href="#">Add Credential Link</a></td>
+<td><a href="#">Credential</a></td>
 </tr>
 <tr>
 <td>Computer Vision</td>
 <td>Kaggle Learn</td>
-<td><a href="#">Add Credential Link</a></td>
+<td><a href="#">Credential</a></td>
 </tr>
 <tr>
 <td>160 Days of DSA</td>
 <td>GeeksforGeeks</td>
-<td><a href="#">Add Credential Link</a></td>
+<td><a href="#">Credential</a></td>
 </tr>
 </table>
 
@@ -247,10 +251,18 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 ## 🏅 Achievements
 
 <table>
-<tr><td>✅ Solved <b>500+ DSA problems</b> across LeetCode and GeeksforGeeks</td></tr>
-<tr><td>✅ Ranked under <b>150 among 7.5K+ users</b> in IIT Delhi GFG institute ranking</td></tr>
-<tr><td>✅ Secured <b>10 CGPA in Class X</b> and received the <b>CBSE Merit Award</b></td></tr>
-<tr><td>✅ Completed work in <b>Cloud Computing, AI/ML, NLP, and Software Development</b></td></tr>
+<tr>
+<td>✅ Solved <b>500+ DSA problems</b> across LeetCode and GeeksforGeeks</td>
+</tr>
+<tr>
+<td>✅ Ranked under <b>150 among 7.5K+ users</b> in IIT Delhi GFG institute ranking</td>
+</tr>
+<tr>
+<td>✅ Secured <b>10 CGPA in Class X</b> and received the <b>CBSE Merit Award</b></td>
+</tr>
+<tr>
+<td>✅ Completed work in <b>Cloud Computing, AI/ML, NLP, and Software Development</b></td>
+</tr>
 </table>
 
 ---
@@ -262,3 +274,4 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:B45309,25:D97706,50:F59E0B,75:FACC15,100:FFF8DC&section=footer" />
 
 </div>
+```
