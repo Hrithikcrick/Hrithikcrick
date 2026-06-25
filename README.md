@@ -1,8 +1,8 @@
-<!-- Golden AI/ML GitHub Profile README -->
+<!-- Hrithik Sharma | GitHub Profile README -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFF8DC,20:FDE68A,45:FACC15,70:F59E0B,100:B45309&text=Hrithik%20Sharma&fontColor=3B2500&fontSize=66&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Cloud%20Computing%20%7C%20IIT%20Delhi&descAlignY=59&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFF8DC,25:FDE68A,50:FACC15,75:F59E0B,100:B45309&text=Hrithik%20Sharma&fontColor=3B2500&fontSize=66&fontAlignY=38&desc=AI%2FML%20%7C%20Cloud%20Computing%20%7C%20NLP%20%7C%20Graph%20ML&descAlignY=59&descSize=22" />
 
 </div>
 
@@ -14,12 +14,15 @@
 
 <p align="center">
   <a href="mailto:sharmahrithik2806@gmail.com">
-    <img src="https://img.shields.io/badge/Email-B45309?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sharmahrithik2806%40gmail.com-B45309?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hrithik-sharma-418404201">
+    <img src="https://img.shields.io/badge/LinkedIn-Hrithik%20Sharma-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Hrithikcrick">
-    <img src="https://img.shields.io/badge/GitHub-3B2500?style=for-the-badge&logo=github&logoColor=FDE68A" />
+    <img src="https://img.shields.io/badge/GitHub-Hrithikcrick-3B2500?style=for-the-badge&logo=github&logoColor=FDE68A" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=F59E0B" />
+  <img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=FACC15" />
 </p>
 
 ---
@@ -144,7 +147,7 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikcrick&layout=compact&langs_count=10&hide_border=true&bg_color=FFF8DC&title_color=B45309&text_color=3B2500&icon_color=D97706" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hrithikcrick&theme=solarized&utcOffset=5.5" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hrithikcrick&theme=solarized" />
 
 </div>
 
@@ -163,20 +166,8 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithikcrick&theme=solarized" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hrithikcrick&theme=solarized" />
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hrithikcrick&theme=solarized" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hrithikcrick&theme=solarized" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Hrithikcrick&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Hrithikcrick&theme=gruvbox&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
 </div>
 
@@ -184,21 +175,75 @@ Topic-wise DSA repository with explanations, dry runs, complexity analysis, and 
 
 ## 🎯 Current Focus
 
-<div align="center">
+<table>
+<tr>
+<td>🤖 AI / Machine Learning</td>
+<td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
+<td><b>90%</b></td>
+</tr>
+<tr>
+<td>☁️ Cloud Computing</td>
+<td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
+<td><b>80%</b></td>
+</tr>
+<tr>
+<td>🧠 Deep Learning</td>
+<td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
+<td><b>80%</b></td>
+</tr>
+<tr>
+<td>🌐 NLP / Transformers</td>
+<td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
+<td><b>80%</b></td>
+</tr>
+<tr>
+<td>📊 Recommendation Systems</td>
+<td>🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜</td>
+<td><b>70%</b></td>
+</tr>
+<tr>
+<td>🕸️ Graph ML</td>
+<td>🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜</td>
+<td><b>70%</b></td>
+</tr>
+<tr>
+<td>🧩 DSA & Problem Solving</td>
+<td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
+<td><b>90%</b></td>
+</tr>
+</table>
 
-<img src="https://progress-bar.dev/92/?title=AI%2FML&width=420&color=FACC15" />
-<br/>
-<img src="https://progress-bar.dev/88/?title=Cloud%20Computing&width=420&color=F59E0B" />
-<br/>
-<img src="https://progress-bar.dev/85/?title=Deep%20Learning&width=420&color=D97706" />
-<br/>
-<img src="https://progress-bar.dev/82/?title=NLP&width=420&color=B45309" />
-<br/>
-<img src="https://progress-bar.dev/80/?title=Graph%20ML%20%2B%20RecSys&width=420&color=FACC15" />
-<br/>
-<img src="https://progress-bar.dev/90/?title=DSA&width=420&color=F59E0B" />
+---
 
-</div>
+## 🎓 Certifications
+
+<table>
+<tr>
+<th>Certification</th>
+<th>Provider</th>
+<th>Credential</th>
+</tr>
+<tr>
+<td>NLP with Classification and Vector Spaces</td>
+<td>DeepLearning.AI</td>
+<td><a href="https://www.coursera.org/account/accomplishments/verify/DJZ7TVJWLKPP">View Credential</a></td>
+</tr>
+<tr>
+<td>Develop Generative AI Applications: Get Started</td>
+<td>IBM</td>
+<td><a href="https://www.coursera.org/account/accomplishments/verify/8Y3TE04XT0F7">View Credential</a></td>
+</tr>
+<tr>
+<td>Computer Vision</td>
+<td>Kaggle Learn</td>
+<td><a href="https://www.kaggle.com/learn/certification/hsiiestiitd27/computer-vision">View Credential</a></td>
+</tr>
+<tr>
+<td>160 Days of DSA</td>
+<td>GeeksforGeeks</td>
+<td><a href="https://media.geeksforgeeks.org/courses/certificates/fa6b08088f008be7a2e3016b1ab5578b.pdf">View Credential</a></td>
+</tr>
+</table>
 
 ---
 
