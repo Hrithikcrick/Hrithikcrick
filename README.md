@@ -75,6 +75,22 @@ I enjoy developing systems that combine strong engineering fundamentals with rea
 
 ---
 
+## 🌍 Open Source Contributions
+
+### Kornia — Computer Vision / Geometry
+
+Contributing production fixes and regression coverage to **Kornia**, an open-source differentiable computer vision library built on PyTorch.
+
+| Status | Contribution | Pull Request |
+| --- | --- | --- |
+| ✅ Merged | Implemented **Brown–Conrady, Kannala–Brandt K3, and Orthographic camera models**, including distortion/projection plumbing, intrinsic matrices, batched project/unproject support, tests, docs, and export-support coverage. | [kornia/kornia#4377](https://github.com/kornia/kornia/pull/4377) |
+| ✅ Merged | Corrected the analytic **Kannala–Brandt distortion Jacobian**, including the small-radius branch and reduced-precision numerical stability. | [kornia/kornia#4368](https://github.com/kornia/kornia/pull/4368) |
+| ✅ Merged | Fixed `rad2deg` / `deg2rad` for integer tensors and preserved **float64 precision** while retaining ONNX-compatible tensor arithmetic. | [kornia/kornia#4358](https://github.com/kornia/kornia/pull/4358) |
+
+These contributions involved reproducing upstream defects, implementing focused fixes, adding regression tests, validating across multiple dtypes/backends, responding to maintainer review, and getting the changes merged into `main`.
+
+---
+
 ## 📌 Featured Projects
 
 <table>
