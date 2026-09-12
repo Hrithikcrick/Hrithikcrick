@@ -19,6 +19,9 @@
 <a href="https://www.linkedin.com/in/hrithik-sharma-418404201">
   <img src="https://img.shields.io/badge/LinkedIn-Hrithik%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://codolio.com/profile/sharma2806/devStats/github">
+  <img src="https://img.shields.io/badge/Codolio-Developer%20Stats-7C3AED?style=for-the-badge" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=Hrithikcrick&style=for-the-badge&color=F59E0B" />
 
 </div>
